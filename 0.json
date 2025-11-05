@@ -4,6 +4,10 @@
   "image": "https://dive-bookings.online/images/logo.png",
   "external_url": "https://klabfactory.example/item/0",
   "background_color": "000000",
+  "collection": {
+    "name": "KLABFactory",
+    "symbol": "KLABF"
+  },
   "attributes": [
     {
       "trait_type": "Category",
