@@ -1,0 +1,31 @@
+{
+  "name": "KLABFactory Item #0",
+  "description": "Aset digital unik dari koleksi KLABFactory. Setiap NFT dalam koleksi ini memiliki identitas dan atribut yang dapat diverifikasi pada blockchain.",
+  "image": "https://dive-bookings.online/images/logo.png",
+  "external_url": "https://klabfactory.example/item/0",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Sample Item"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Prototype"
+    },
+    {
+      "trait_type": "Generation",
+      "display_type": "number",
+      "value": 1
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://dive-bookings.online/images/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "collectible"
+  }
+}
