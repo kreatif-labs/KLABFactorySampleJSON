@@ -1,0 +1,8 @@
+{
+  "name": "KLABFactory",
+  "description": "KLABFactory adalah platform multi-tenant untuk pembuatan NFT collection secara mudah dan efisien. Setiap item dalam koleksi ini mewakili aset digital unik yang terdesentralisasi dan dapat diverifikasi melalui blockchain.",
+  "image": "https://dive-bookings.online/images/logo.png",
+  "external_link": "https://klabfactory.example",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x0000000000000000000000000000000000000000"
+}
